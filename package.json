@@ -1,0 +1,12 @@
+{
+  "name": "fde-08-workflow-orchestrator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.mjs",
+    "demo": "node src/demo.mjs",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
